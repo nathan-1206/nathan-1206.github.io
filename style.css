@@ -1,0 +1,182 @@
+
+body {
+    font-family: 'Barlow', sans-serif;
+    margin: 0;
+}
+
+#header {
+    text-align: center;
+    color: white;
+    background-color: #003057;
+    padding: 50px;
+    opacity: 0;
+}
+
+#headshot {
+    border-radius: 50%;
+}
+
+.page-link {
+    margin: 50px auto;
+    display: flex;
+    opacity: 0;
+}
+
+.section-header {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #003057;
+}
+
+.page-header {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+    color: #003057;
+    padding: 50px;
+}
+
+.about-me-content {
+    text-align: center;
+    background-color: #003057;
+    color: white;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding: 50px;
+    opacity: 0;
+}
+
+.education-content-header {
+    text-align: center;
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 400px;
+    opacity: 0;
+}
+
+.education-content {
+    color: white;
+    display: flex;
+    margin-top: -25px;
+    margin-left: 410px;
+    margin-right: auto;
+    opacity: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.contact-page-content {
+    text-align: left;
+    color: white;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding: 50px;
+    opacity: 0;
+}
+
+.paid-experience-content-header {
+    text-align: center;
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 400px;
+    opacity: 0;
+}
+
+.paid-experience-content {
+    color: white;
+    display: flex;
+    margin-top: -25px;
+    margin-left: 410px;
+    margin-right: auto;
+    opacity: 0;
+}
+
+.volunteer-experience-content-header {
+  text-align: center;
+    color: white;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 400px;
+    opacity: 0;
+}
+
+.volunteer-experience-content {
+    color: white;
+    display: flex;
+    margin-top: -25px;
+    margin-left: 410px;
+    margin-right: auto;
+    opacity: 0;
+}
+
+.back-button-link {
+    text-align: left;
+    margin-left: 20px;
+    position: absolute;
+    top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
